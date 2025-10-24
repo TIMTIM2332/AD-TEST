@@ -1,0 +1,3 @@
+A withdraw failed: Insufficient funds
+A balance: 125.0
+B balance: 120.0

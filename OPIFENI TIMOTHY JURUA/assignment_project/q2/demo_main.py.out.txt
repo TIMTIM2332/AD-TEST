@@ -1,0 +1,5 @@
+Factorial 5 -> 120
+GCD 48,18 -> 6
+Fibonacci(7) -> [0, 1, 1, 2, 3, 5, 8]
+Vowels in "Hello World" -> 3
+Reverse "abcde" -> edcba
